@@ -1,2 +1,2 @@
-# paloalto_fw_code_upgrade
+# PALOALTO FIREWALL HA PAIR CODE UPGRADE
 paloalto firewall code upgrade
